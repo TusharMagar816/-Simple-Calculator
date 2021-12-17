@@ -1,0 +1,43 @@
+button{
+    border:5px solid red;
+    background-color:black;
+    color:white;
+    font-size:large;
+    text-align: center;
+    margin-top:50px;
+    padding-top:15px;
+    font-weight: bolder;
+    padding:20px;
+    cursor: pointer;
+  
+ 
+}
+
+input{
+    border:5px solid greenyellow;
+    margin:20px;
+    font-weight: bold;
+    padding:10px;
+}
+
+.container{
+    text-align: center;
+    
+   
+}
+
+#total{
+    border:5px solid fuchsia;
+}
+
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+}
+h1{
+    color:white;
+}
+
+button:hover{
+background-color:yellow;
+}
